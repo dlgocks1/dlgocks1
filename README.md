@@ -1,6 +1,5 @@
 ### Velog : https://velog.io/@cksgodl
-[![Solved.ac
-cksgodl](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksgodl)](https://solved.ac/cksgodl/)
 
 <!--
 ![dlgocks1's github stats](https://github-readme-stats.vercel.app/api?username=dlgocks1&show_icons=true)
