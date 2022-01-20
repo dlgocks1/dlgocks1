@@ -1,4 +1,8 @@
+
 ### Velog : https://velog.io/@cksgodl
+
+* 수정 22.01.21
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksgodl)](https://solved.ac/cksgodl/)
 
 <!--
