@@ -1,7 +1,11 @@
-### Hi there 👋
+### Velog : https://velog.io/@cksgodl
+[![Solved.ac
+cksgodl](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
+<!--
 ![dlgocks1's github stats](https://github-readme-stats.vercel.app/api?username=dlgocks1&show_icons=true)
 [![dlgocks1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlgocks1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dlgocks1)
+-->
 
 <!--
 **dlgocks1/dlgocks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
