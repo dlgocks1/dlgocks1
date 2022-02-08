@@ -3,9 +3,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksgodl)](https://solved.ac/cksgodl/)
 
-
-2015.03~ 2018.03 선린인터넷고등학교 졸업
-2018.03 ~ 한국항공대학교 재학
+* 2015.03~ 2018.03 선린인터넷고등학교 졸업 
+* 2018.03 ~ 한국항공대학교 재학
 
 <!--
 ![dlgocks1's github stats](https://github-readme-stats.vercel.app/api?username=dlgocks1&show_icons=true)
