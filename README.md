@@ -1,7 +1,8 @@
 
 ### Velog : https://velog.io/@cksgodl
 
-[![PCBL's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgocks1)](https://github.com/dlgocks1/github-readme-stats)
+![PCBL's github stats](https://github-readme-stats.vercel.app/api?username=dlgocks1&show_icons=true&theme=tokyonight)
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksgodl)](https://solved.ac/cksgodl/)
