@@ -1,5 +1,7 @@
-<div align="center">
+
 ### Velog : https://velog.io/@cksgodl
+  
+---
 
 ![PCBL's github stats](https://github-readme-stats.vercel.app/api?username=dlgocks1&show_icons=true&theme=tokyonight)
 
@@ -7,7 +9,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksgodl)](https://solved.ac/cksgodl/)
 
-</div>
 <!--
 ![dlgocks1's github stats](https://github-readme-stats.vercel.app/api?username=dlgocks1&show_icons=true)
 [![dlgocks1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlgocks1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dlgocks1)
