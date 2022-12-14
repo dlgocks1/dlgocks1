@@ -1,5 +1,5 @@
 ### Thank you for visiting my GitHub. 👋
-#### Lee Hae Chan
+### Lee Hae Chan
 * 강단있는 개발자가 되기
 
 ### I'm Studying
